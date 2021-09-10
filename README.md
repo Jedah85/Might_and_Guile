@@ -568,7 +568,7 @@ CALLED SHOTS <br />
   <div class="section">
     <p><strong><em>Add the MARKSMAN fighter kit</em></strong></p>
     <p>This is a fighter kit which mimics the Archer ranger kit in almost every way, except this kit can reach specialization with melee weapons instead of mere proficiency.</p>
-    <p>However, if you have installed component #230, "Revised Archers," then this kit will use the new Called Shot system: </p>
+    <p>However, if you have installed component #205, "Revised Archers," then this kit will use the new Called Shot system: </p>
     <div class="kit_description">
       <p>MARKSMAN: This soldier is the epitome of skill with ranged weapons. He can make almost any shot, no matter how difficult. To become so skilled, the Marksman has had to sacrifice some proficiency with melee weapons and armor.</p>
       <p>Advantages:<br />
